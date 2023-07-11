@@ -40,4 +40,4 @@ jobs:
         git add .
         git commit -m"action:`date`"
         git pull --rebase
-        git push
+        git push || echo "No changes to commit"
