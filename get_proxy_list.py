@@ -20,4 +20,4 @@ if __name__ == '__main__':
     url = 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt'
     filename = '/tmp/proxy-list.txt'
     download_file(url, filename)
-    process_file(filename, '/etc/smartdns/proxy-list-smartdns.txt')
+    process_file(filename, 'proxy-list-smartdns.txt')
