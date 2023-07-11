@@ -33,11 +33,17 @@ jobs:
     - name: Run gen_proxy_list.py
       run: |
         python get_proxy_list.py
-    - name: Commit
+    - name: Commit and push
       run: |
         git config --global user.email 1946400346@qq.com
         git config --global user.name hotwill
         git add .
-        git commit -m"action:`date`"
-        git pull --rebase
-        git push || echo "No changes to commit"
+             
+        if [ -z "$(git status --porcelain)" ]
+        then
+            echo "nothing to update."
+        else
+            git commit -m"action:`date`"
+            git pull --rebase
+            git push
+        fi
