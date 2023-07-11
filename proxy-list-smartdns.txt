@@ -19103,3 +19103,12 @@ wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 zeenews-fonts.s3.amazonaws.com
+v2ex.com
+snssdk.com
+dockone.io
+etoro.com
+jellyfin.org
+notepad-plus-plus.org
+sp0.baidu.com
+vvl.me
+pureapk.com
