@@ -8742,6 +8742,9 @@ innovations-i.com
 inoreader.com
 inporn.com
 insecam.org
+inshot.cc
+inshot.com
+inshotapp.com
 insidefilms.com
 insidemacintosh.com
 insider-intelligence.com
@@ -19121,3 +19124,4 @@ opensubtitles.org
 tmdb.nastool.workers.dev
 xhofe.top
 op.supes.top
+epg.112114.xyz
