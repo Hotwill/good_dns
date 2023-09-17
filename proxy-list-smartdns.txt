@@ -19136,3 +19136,6 @@ xhofe.top
 op.supes.top
 epg.112114.xyz
 pttime.org
+battlenet.com
+battle.net
+battlenet.com.cn
