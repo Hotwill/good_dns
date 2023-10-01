@@ -3821,6 +3821,7 @@ cloudconvert.com
 cloudcraze.com
 cloudcredibility.com
 cloudflare-dns.com
+cloudflare-ech.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
@@ -18771,6 +18772,7 @@ brightcove.imgix.net
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
+cdn-spotify-experiments.conductrics.com
 cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
 chat.openai.com.cdn.cloudflare.net
