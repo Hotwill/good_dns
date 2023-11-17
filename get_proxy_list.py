@@ -29,12 +29,12 @@ def process_ruleset(input_file, output_file):
 if __name__ == '__main__':
     dst_filename = 'proxy-list-smartdns.txt'
 
-    url = 'https://ghproxy.com/https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt'
+    url = 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt'
     filename = '/tmp/proxy-list.txt'
     download_file(url, filename)
     process_file(filename, dst_filename)
 
-    url = 'https://ghproxy.com/https://gist.githubusercontent.com/Hotwill/d04d795b8a72cac7691f24b2fdfaf9b6/raw/my_proxy_ruleset.txt'
+    url = 'https://gist.githubusercontent.com/Hotwill/d04d795b8a72cac7691f24b2fdfaf9b6/raw/my_proxy_ruleset.txt'
     filename = '/tmp/my_proxy_ruleset.txt'
     download_file(url, filename)
     process_ruleset(filename, dst_filename)
