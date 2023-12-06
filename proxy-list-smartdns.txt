@@ -19251,8 +19251,8 @@ tmdb.nastool.workers.dev
 xhofe.top
 op.supes.top
 epg.112114.xyz
-pttime.org
 battlenet.com
 battle.net
 battlenet.com.cn
 utorrent.com
+qbittorrent.org
