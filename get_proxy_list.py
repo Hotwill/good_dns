@@ -29,7 +29,8 @@ def process_ruleset(input_file, output_file):
 if __name__ == '__main__':
     dst_filename = 'proxy-list-smartdns.txt'
 
-    url = 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt'
+    #url = 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt'
+    url = 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt'
     filename = '/tmp/proxy-list.txt'
     download_file(url, filename)
     process_file(filename, dst_filename)
