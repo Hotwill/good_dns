@@ -6170,7 +6170,6 @@ notepad-plus-plus.org
 sp0.baidu.com
 vvl.me
 pureapk.com
-docker.io
 shrinke.me
 visualstudio.microsoft.com
 themoviedb.org
