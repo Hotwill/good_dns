@@ -6217,3 +6217,4 @@ qbittorrent.org
 download.proxmox.com
 openai.com
 notion.so
+cli.nexus.xyz
