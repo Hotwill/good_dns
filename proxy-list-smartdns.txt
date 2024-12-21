@@ -6218,3 +6218,4 @@ download.proxmox.com
 openai.com
 notion.so
 cli.nexus.xyz
+metacubex.one
