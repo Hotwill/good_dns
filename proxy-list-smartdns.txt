@@ -6221,3 +6221,5 @@ cli.nexus.xyz
 metacubex.one
 mirror.xyz
 gitbook.io
+docker.io
+docker.com
