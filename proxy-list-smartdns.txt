@@ -6204,6 +6204,11 @@ zyzc9.com
 zzcartoon.com
 zzcloud.me
 zzux.com
+dns.google
+dns.quad9.net
+dns.cloudflare.com
+doh.opendns.com
+dns.twnic.tw
 snssdk.com
 dockone.io
 etoro.com
