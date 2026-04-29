@@ -3690,6 +3690,7 @@ upghsbc.com
 upmedia.mg
 upornia.com
 uproxy.org
+upsangel.com
 uptodown.com
 uraban.me
 urbandictionary.com
@@ -4234,4 +4235,4 @@ hostloc.net
 linux.do
 anyrouter.top
 vpn07.com
-cogserv.in.eu.org
+new-api.cogserv.in.eu.org
