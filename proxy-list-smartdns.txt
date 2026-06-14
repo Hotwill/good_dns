@@ -4283,3 +4283,4 @@ linux.do
 anyrouter.top
 vpn07.com
 new-api.cogserv.in.eu.org
+nvidia.com
